@@ -1,0 +1,12 @@
+{
+  "name": "pass_gen_friiiman",
+  "version": "1.0.0",
+  "description": "Password generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Friiiman",
+  "repository": "https://github.com/Friiiman/passGen",
+  "license": "ISC"
+}
