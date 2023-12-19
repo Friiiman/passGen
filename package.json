@@ -1,5 +1,5 @@
 {
-  "name": "pass_gen_friiiman",
+  "name": "passgen_friiiman",
   "version": "1.0.0",
   "description": "Password generator",
   "main": "index.js",
